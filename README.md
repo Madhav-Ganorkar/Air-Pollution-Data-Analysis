@@ -56,19 +56,19 @@ The project also estimates a simple **Air Quality Index (AQI)** for different ci
 ## 📊 Visualizations
 
 ### 1. Monthly PM2.5 Trend
-![Monthly Trend](visual/Monthly_trend.png)
+![Monthly Trend](visual/Monthly_trend.PNG)
 
 ### 2. Temperature vs PM2.5 Scatter
-![Temp vs PM2.5](visual/Scatter.png)
+![Temp vs PM2.5](visual/Scatter.PNG)
 
 ### 3. Correlation Heatmap
-![Correlation Heatmap](visual/Corr_heatmap.png)
+![Correlation Heatmap](visual/Corr_heatmap.PNG)
 
 ### 4. Top 5 Polluted Cities
-![Top Cities](visual/Polluted_city.png)
+![Top Cities](visual/Polluted_city.PNG)
 
 ### 5. PM2.5 Distribution
-![Distribution](visual/Distribution_PM25.png)
+![Distribution](visual/Distribution_PM25.PNG)
 
 ---
 
